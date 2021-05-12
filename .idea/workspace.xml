@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="48ddc510-6e47-474b-af03-bae9636180ff" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/index_page.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+              <folding>
+                <element signature="n#!!block;n#printErrorMessage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/agent.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="765">
+              <caret line="45" column="108" selection-start-line="45" selection-start-column="108" selection-end-line="45" selection-end-column="108" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="935">
+              <caret line="55" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="55" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1615">
+              <caret line="95" column="27" selection-start-line="27" selection-start-column="20" selection-end-line="95" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+              <folding>
+                <element signature="e#7#389#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NormalPagesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/layouts/styles.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6800">
+              <caret line="400" column="22" selection-start-line="400" selection-start-column="16" selection-end-line="400" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>camera</find>
+      <find>text-warning</find>
+      <find>card</find>
+      <find>Manage Lod</find>
+      <find>Verification</find>
+      <find>user</find>
+      <find>Pos</find>
+      <find>bg-s</find>
+      <find>bg-sit</find>
+      <find>navba</find>
+      <find>btn-site</find>
+      <find>toggle</find>
+      <find>props</find>
+      <find>Featured L</find>
+      <find>lodge_id</find>
+      <find>$lodge</find>
+      <find>FlaggedLodge</find>
+      <find>$flaggedLodge</find>
+      <find>flaggedLodge</find>
+      <find>flagBtn</find>
+      <find>flag</find>
+      <find>flagge</find>
+      <find>read</find>
+      <find>file</find>
+      <find>img</find>
+      <find>imag</find>
+      <find>ajaxs</find>
+      <find>R</find>
+      <find>Register</find>
+      <find>Jfo</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AgentHouseStatusController.php" />
+        <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/vendor/mail/html/message.blade.php" />
+        <option value="$PROJECT_DIR$/config/filesystems.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/ProfilePictureController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SellPropertiesController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/SellPropertiesPictureController.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/properties/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PropertiesPublishController.php" />
+        <option value="$PROJECT_DIR$/resources/views/properties/show.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/PropertyController.php" />
+        <option value="$PROJECT_DIR$/app/Http/Middleware/CheckAgentValidation.php" />
+        <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/lodge/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/lodge/show.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminPropertyController.php" />
+        <option value="$PROJECT_DIR$/resources/views/admin/property/index.blade.php" />
+        <option value="$PROJECT_DIR$/public/admin_ui/css/sb-admin.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/LodgeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/lodge/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agent/uploadLodge.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin/master.blade.php" />
+        <option value="$PROJECT_DIR$/public/admin_ui/style.css" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AdminLodgeController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/admin/navbar.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agent/houses.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/agent/house/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/AgentHouseController.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/account/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/user/properties/create.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/styles.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/homepage/mobileNav.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/resources/views/properties/index.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/FlaggedPropertyController.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/homepage/modals.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_11_14_154115_add_reason_in_flagged_properties.php" />
+        <option value="$PROJECT_DIR$/public/js/flag_and_save.js" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/user/sidebar.blade.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/public/js/index_page.js" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/becomeAnAgent.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/NormalPagesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/agent.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="775" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../stellar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\public\images\lodges" />
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\resources\views\layouts\admin" />
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\public\images" />
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\public\css" />
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\resources\views\admin\lodgespot" />
+      <recent name="C:\Users\Emmanuel\Documents\laravel\campuslodges\resources\views\agent" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="48ddc510-6e47-474b-af03-bae9636180ff" name="Default Changelist" comment="" />
+      <created>1565793152866</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565793152866</updated>
+      <workItem from="1565793154259" duration="3006000" />
+      <workItem from="1565806418449" duration="5307000" />
+      <workItem from="1565831266844" duration="2876000" />
+      <workItem from="1565859927753" duration="513000" />
+      <workItem from="1565861115731" duration="15156000" />
+      <workItem from="1566033449828" duration="5995000" />
+      <workItem from="1566104629072" duration="8279000" />
+      <workItem from="1566192513779" duration="1396000" />
+      <workItem from="1566218661977" duration="25519000" />
+      <workItem from="1566716078399" duration="2880000" />
+      <workItem from="1566828143221" duration="16043000" />
+      <workItem from="1567071369972" duration="10398000" />
+      <workItem from="1567154076547" duration="1838000" />
+      <workItem from="1567254258422" duration="1163000" />
+      <workItem from="1567437028071" duration="6157000" />
+      <workItem from="1567476019857" duration="583000" />
+      <workItem from="1567494682189" duration="603000" />
+      <workItem from="1567577584870" duration="2946000" />
+      <workItem from="1567626108403" duration="593000" />
+      <workItem from="1567788196144" duration="599000" />
+      <workItem from="1568010115211" duration="598000" />
+      <workItem from="1568051479573" duration="597000" />
+      <workItem from="1568099141906" duration="594000" />
+      <workItem from="1568187679251" duration="606000" />
+      <workItem from="1568296913036" duration="1769000" />
+      <workItem from="1568715831690" duration="246000" />
+      <workItem from="1569082099926" duration="3720000" />
+      <workItem from="1569154910796" duration="1940000" />
+      <workItem from="1569233579611" duration="1363000" />
+      <workItem from="1569335868367" duration="634000" />
+      <workItem from="1569359332082" duration="591000" />
+      <workItem from="1569374226280" duration="1229000" />
+      <workItem from="1569435785657" duration="1195000" />
+      <workItem from="1569446438303" duration="197000" />
+      <workItem from="1569452603433" duration="829000" />
+      <workItem from="1569675854790" duration="3465000" />
+      <workItem from="1569874114523" duration="6645000" />
+      <workItem from="1569948532555" duration="12350000" />
+      <workItem from="1570013459611" duration="7886000" />
+      <workItem from="1570097994559" duration="6437000" />
+      <workItem from="1570178105848" duration="16109000" />
+      <workItem from="1570341353308" duration="11507000" />
+      <workItem from="1570442028757" duration="85000" />
+      <workItem from="1570465448646" duration="4164000" />
+      <workItem from="1570494090837" duration="675000" />
+      <workItem from="1570520820646" duration="598000" />
+      <workItem from="1570564248673" duration="581000" />
+      <workItem from="1570699249969" duration="597000" />
+      <workItem from="1571123162353" duration="5847000" />
+      <workItem from="1571237739365" duration="280000" />
+      <workItem from="1571333089301" duration="5417000" />
+      <workItem from="1571377477584" duration="16522000" />
+      <workItem from="1571490714359" duration="13425000" />
+      <workItem from="1571536888233" duration="17833000" />
+      <workItem from="1571565537936" duration="9597000" />
+      <workItem from="1571727007712" duration="1238000" />
+      <workItem from="1571817302355" duration="48000" />
+      <workItem from="1571910633563" duration="14920000" />
+      <workItem from="1571961057717" duration="881000" />
+      <workItem from="1572029256917" duration="1498000" />
+      <workItem from="1572086772829" duration="12369000" />
+      <workItem from="1572157777927" duration="7550000" />
+      <workItem from="1572454379031" duration="13408000" />
+      <workItem from="1572510601800" duration="10240000" />
+      <workItem from="1572588513067" duration="30234000" />
+      <workItem from="1572753784564" duration="25563000" />
+      <workItem from="1572802449261" duration="27545000" />
+      <workItem from="1572865639459" duration="17629000" />
+      <workItem from="1572931551037" duration="32769000" />
+      <workItem from="1573042232181" duration="536000" />
+      <workItem from="1573058193952" duration="6941000" />
+      <workItem from="1573096479846" duration="64673000" />
+      <workItem from="1573215094796" duration="7017000" />
+      <workItem from="1573340047511" duration="3178000" />
+      <workItem from="1573365769784" duration="4761000" />
+      <workItem from="1573460530753" duration="22410000" />
+      <workItem from="1573592994330" duration="22544000" />
+      <workItem from="1573653813139" duration="1648000" />
+      <workItem from="1573681223189" duration="1411000" />
+      <workItem from="1573718044356" duration="21554000" />
+      <workItem from="1573820087093" duration="410000" />
+      <workItem from="1573833731644" duration="8413000" />
+      <workItem from="1573886176917" duration="2476000" />
+      <workItem from="1573900652569" duration="1189000" />
+      <workItem from="1573931002587" duration="1188000" />
+      <workItem from="1573975098920" duration="284000" />
+      <workItem from="1575454159105" duration="1411000" />
+      <workItem from="1575622244003" duration="13000" />
+      <workItem from="1576045693494" duration="1860000" />
+      <workItem from="1576540454939" duration="500000" />
+      <workItem from="1577646907476" duration="603000" />
+      <workItem from="1577707649076" duration="4220000" />
+      <workItem from="1578178639451" duration="750000" />
+      <workItem from="1578201693549" duration="7938000" />
+      <workItem from="1578249392036" duration="884000" />
+    </task>
+    <task id="LOCAL-00049" summary="add verified middleware">
+      <created>1572879309140</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1572879309140</updated>
+    </task>
+    <task id="LOCAL-00050" summary="can view saved lodges">
+      <created>1572886492009</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1572886492009</updated>
+    </task>
+    <task id="LOCAL-00051" summary="can view saved lodges">
+      <created>1572888052859</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1572888052859</updated>
+    </task>
+    <task id="LOCAL-00052" summary="can view saved lodges">
+      <created>1572932865106</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1572932865106</updated>
+    </task>
+    <task id="LOCAL-00053" summary="minor fixes">
+      <created>1572936854361</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1572936854361</updated>
+    </task>
+    <task id="LOCAL-00054" summary="minor fixes">
+      <created>1572944812562</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1572944812562</updated>
+    </task>
+    <task id="LOCAL-00055" summary="minor fixes">
+      <created>1572947195073</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1572947195073</updated>
+    </task>
+    <task id="LOCAL-00056" summary="property and property picture migration">
+      <created>1572948701734</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1572948701734</updated>
+    </task>
+    <task id="LOCAL-00057" summary="user create property">
+      <created>1572952225040</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1572952225040</updated>
+    </task>
+    <task id="LOCAL-00058" summary="retrieve properties">
+      <created>1572954217414</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1572954217414</updated>
+    </task>
+    <task id="LOCAL-00059" summary="set up form for user update properties">
+      <created>1572957397255</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1572957397255</updated>
+    </task>
+    <task id="LOCAL-00060" summary="user update property">
+      <created>1572958050756</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1572958050756</updated>
+    </task>
+    <task id="LOCAL-00061" summary="update and delete properties picture">
+      <created>1572962025694</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1572962025694</updated>
+    </task>
+    <task id="LOCAL-00062" summary="front end change for edit properties picture">
+      <created>1573059805719</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1573059805719</updated>
+    </task>
+    <task id="LOCAL-00063" summary="front end change for deleting and creating properties picture">
+      <created>1573103723504</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1573103723504</updated>
+    </task>
+    <task id="LOCAL-00064" summary="front end change for deleting and creating properties picture">
+      <created>1573109684582</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1573109684582</updated>
+    </task>
+    <task id="LOCAL-00065" summary="admin can view the user properties upload&#10;admin can deny the properties&#10;admin can approve the properties">
+      <created>1573113410485</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1573113410485</updated>
+    </task>
+    <task id="LOCAL-00066" summary="visitor can view properties">
+      <created>1573124122511</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1573124122526</updated>
+    </task>
+    <task id="LOCAL-00067" summary="minor touches">
+      <created>1573127066261</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1573127066261</updated>
+    </task>
+    <task id="LOCAL-00068" summary="users can save properties">
+      <created>1573142653640</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1573142653640</updated>
+    </task>
+    <task id="LOCAL-00069" summary="users can save properties and view them">
+      <created>1573143820016</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1573143820016</updated>
+    </task>
+    <task id="LOCAL-00070" summary="jupeb minor fix">
+      <created>1573144624063</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1573144624063</updated>
+    </task>
+    <task id="LOCAL-00071" summary="user can flag a lodge">
+      <created>1573147246477</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1573147246477</updated>
+    </task>
+    <task id="LOCAL-00072" summary="user flag new ui fix">
+      <created>1573197476603</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1573197476603</updated>
+    </task>
+    <task id="LOCAL-00073" summary="user sends visit request">
+      <created>1573204178638</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1573204178654</updated>
+    </task>
+    <task id="LOCAL-00074" summary="admin can view the request notification">
+      <created>1573208050156</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1573208050156</updated>
+    </task>
+    <task id="LOCAL-00075" summary="user can pull down properties">
+      <created>1573211016814</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1573211016814</updated>
+    </task>
+    <task id="LOCAL-00076" summary="renew house function">
+      <created>1573219758149</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1573219758150</updated>
+    </task>
+    <task id="LOCAL-00077" summary="styles bug fix">
+      <created>1573365826333</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1573365826333</updated>
+    </task>
+    <task id="LOCAL-00078" summary="styles bug fix">
+      <created>1573366554775</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1573366554775</updated>
+    </task>
+    <task id="LOCAL-00079" summary="styles bug fix">
+      <created>1573366617317</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1573366617317</updated>
+    </task>
+    <task id="LOCAL-00080" summary="styles bug fix">
+      <created>1573366764887</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1573366764887</updated>
+    </task>
+    <task id="LOCAL-00081" summary="mail setup fix">
+      <created>1573369107163</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1573369107163</updated>
+    </task>
+    <task id="LOCAL-00082" summary="mail setup fix">
+      <created>1573462400806</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1573462400807</updated>
+    </task>
+    <task id="LOCAL-00083" summary="minor picture fix">
+      <created>1573469681347</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1573469681347</updated>
+    </task>
+    <task id="LOCAL-00084" summary="minor picture fix">
+      <created>1573474265728</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1573474265728</updated>
+    </task>
+    <task id="LOCAL-00085" summary="minor properties upload picture">
+      <created>1573477176916</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1573477176916</updated>
+    </task>
+    <task id="LOCAL-00086" summary="minor properties upload picture">
+      <created>1573478474917</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1573478474917</updated>
+    </task>
+    <task id="LOCAL-00087" summary="minor property fix">
+      <created>1573478985052</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1573478985053</updated>
+    </task>
+    <task id="LOCAL-00088" summary="minor property fix">
+      <created>1573480717360</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1573480717360</updated>
+    </task>
+    <task id="LOCAL-00089" summary="minor property fix">
+      <created>1573481181601</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1573481181601</updated>
+    </task>
+    <task id="LOCAL-00090" summary="minor property fix">
+      <created>1573482471322</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1573482471323</updated>
+    </task>
+    <task id="LOCAL-00091" summary="minor lodge fix">
+      <created>1573484926414</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1573484926414</updated>
+    </task>
+    <task id="LOCAL-00092" summary="minor lodge fix">
+      <created>1573593941873</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1573593941888</updated>
+    </task>
+    <task id="LOCAL-00093" summary="minor lodge fix">
+      <created>1573633819075</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1573633819075</updated>
+    </task>
+    <task id="LOCAL-00094" summary="minor lodge fix">
+      <created>1573654887887</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1573654887887</updated>
+    </task>
+    <task id="LOCAL-00095" summary="major fix">
+      <created>1576045765591</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1576045765591</updated>
+    </task>
+    <task id="LOCAL-00096" summary="major fix">
+      <created>1576045882150</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1576045882150</updated>
+    </task>
+    <task id="LOCAL-00097" summary="major fix">
+      <created>1578249590628</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1578249590629</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="652682000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" weight="0.45461422" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.33358547" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" sideWeight="0.49546143" visible="true" weight="0.77880186" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.505295" side_tool="true" weight="0.67895544" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.494705" weight="0.67895544" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="retrieve properties" />
+    <MESSAGE value="set up form for user update properties" />
+    <MESSAGE value="user update property" />
+    <MESSAGE value="update and delete properties picture" />
+    <MESSAGE value="front end change for edit properties picture" />
+    <MESSAGE value="front end change for deleting and creating properties picture" />
+    <MESSAGE value="admin can view the user properties upload&#10;admin can deny the properties&#10;admin can approve the properties" />
+    <MESSAGE value="visitor can view properties" />
+    <MESSAGE value="minor touches" />
+    <MESSAGE value="users can save properties" />
+    <MESSAGE value="users can save properties and view them" />
+    <MESSAGE value="jupeb minor fix" />
+    <MESSAGE value="user can flag a lodge" />
+    <MESSAGE value="user flag new ui fix" />
+    <MESSAGE value="user sends visit request" />
+    <MESSAGE value="admin can view the request notification" />
+    <MESSAGE value="user can pull down properties" />
+    <MESSAGE value="renew house function" />
+    <MESSAGE value="styles bug fix" />
+    <MESSAGE value="mail setup fix" />
+    <MESSAGE value="minor picture fix" />
+    <MESSAGE value="minor properties upload picture" />
+    <MESSAGE value="minor property fix" />
+    <MESSAGE value="minor lodge fix" />
+    <MESSAGE value="major fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="major fix" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/user/create.blade.php</url>
+          <line>114</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/agent/verification.blade.php</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/agent/kyc.blade.php</url>
+          <line>200</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/admin/lodge/show.blade.php</url>
+          <line>63</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/resources/views/agent/uploadLodge.blade.php</url>
+          <line>121</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/resources/views/lodge/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="177" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/IMG-20190813-WA0007.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin/master.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin_ui/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminAgentApplicationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AdminLodgeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="26" column="24" selection-start-line="26" selection-start-column="24" selection-end-line="26" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/admin_ui/css/sb-admin.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="9" column="45611" selection-start-line="9" selection-start-column="45611" selection-end-line="9" selection-end-column="45611" />
+          <folding>
+            <element signature="e#29832#30066#2" expanded="true" />
+            <element signature="e#30921#31074#1" expanded="true" />
+            <element signature="e#31114#31348#1" expanded="true" />
+            <element signature="e#34507#34783#2" expanded="true" />
+            <element signature="e#35666#35819#1" expanded="true" />
+            <element signature="e#35859#36135#1" expanded="true" />
+            <element signature="e#68685#68872#2" expanded="true" />
+            <element signature="e#69101#69237#2" expanded="true" />
+            <element signature="e#69640#69773#2" expanded="true" />
+            <element signature="e#71477#71630#1" expanded="true" />
+            <element signature="e#86537#86767#2" expanded="true" />
+            <element signature="e#87634#87870#2" expanded="true" />
+            <element signature="e#120364#120541#2" expanded="true" />
+            <element signature="e#120587#120764#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agent/houses.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/admin/navbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="5918" column="26" selection-start-line="5918" selection-start-column="8" selection-end-line="5918" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="5" column="143434" lean-forward="true" selection-start-line="5" selection-start-column="143330" selection-end-line="5" selection-end-column="143434" />
+          <folding>
+            <element signature="e#61909#62109#2" expanded="true" />
+            <element signature="e#62317#62466#2" expanded="true" />
+            <element signature="e#62968#63114#2" expanded="true" />
+            <element signature="e#63415#63581#1" expanded="true" />
+            <element signature="e#74301#74544#2" expanded="true" />
+            <element signature="e#75411#75660#2" expanded="true" />
+            <element signature="e#101957#102147#2" expanded="true" />
+            <element signature="e#102193#102383#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agent/house/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="67" column="73" lean-forward="true" selection-start-line="67" selection-start-column="73" selection-end-line="67" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/account/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="118" column="50" lean-forward="true" selection-start-line="118" selection-start-column="50" selection-end-line="118" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/framework/views/60fc599dbd545c5894a7b60afc920812a9f2f7aa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="283" column="5" selection-start-line="283" selection-start-column="5" selection-end-line="283" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/properties/create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="133" column="82" selection-start-line="133" selection-start-column="82" selection-end-line="133" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/homepage/mobileNav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1697">
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#nav#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="74" selection-start-line="14" selection-start-column="74" selection-end-line="14" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/FlaggedProperty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Property.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-423">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_11_08_024840_add_reason_in_flagged_lodges.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="60" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FlaggedLodgeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <folding>
+            <element signature="e#413#474#0#PHP" />
+            <element signature="e#521#614#1#PHP" />
+            <element signature="e#625#1051#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/homepage/modals.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="63" selection-start-line="29" selection-start-column="63" selection-end-line="29" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/properties/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="103" column="10" selection-start-line="82" selection-start-column="8" selection-end-line="103" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/flag_and_save.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="65" column="36" selection-start-line="65" selection-start-column="36" selection-end-line="65" selection-end-column="36" />
+          <folding>
+            <element signature="e#542#1328#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_11_14_154115_add_reason_in_flagged_properties.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/FlaggedPropertyController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="e#40#64#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AgentHousePictureController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/PropertyPictureController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SellPropertiesPictureController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="52" column="55" selection-start-line="52" selection-start-column="55" selection-end-line="52" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/mail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/layouts/app.stub">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/property/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" selection-start-line="25" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/user/properties/show.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/IMG-20190812-WA0001.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agent/uploadLodge.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5134">
+          <caret line="302" column="9" selection-start-line="291" selection-start-column="8" selection-end-line="302" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/AgentHouseController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="88" column="19" selection-start-line="88" selection-start-column="19" selection-end-line="88" selection-end-column="19" />
+          <folding>
+            <element signature="e#40#59#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/SellPropertiesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="173" column="27" selection-start-line="173" selection-start-column="27" selection-end-line="173" selection-end-column="27" />
+          <folding>
+            <element signature="e#283#1754#0#PHP" />
+            <element signature="e#1759#2848#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/user/sidebar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Docs/IMG-20190812-WA0002.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/index_page.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+          <folding>
+            <element signature="n#!!block;n#printErrorMessage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/agent.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="108" selection-start-line="45" selection-start-column="108" selection-end-line="45" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/contact.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="55" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="95" column="27" selection-start-line="27" selection-start-column="20" selection-end-line="95" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/NormalPagesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/styles.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6800">
+          <caret line="400" column="22" selection-start-line="400" selection-start-column="16" selection-end-line="400" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="100" column="21" selection-start-line="100" selection-start-column="21" selection-end-line="100" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="e#7#389#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
